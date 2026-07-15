@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-3sxyul.bebelai.com/sitemap.xml
